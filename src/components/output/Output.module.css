@@ -1,0 +1,14 @@
+.output{
+    background-color: rgb(99, 186, 229);
+    display: flex;
+    font-size: 1rem;    
+    color: white;
+    padding: 0.7rem;
+    /* box-shadow: 4 4 4 rgba(255, 255, 255, 0.5); */
+    min-height: 3.5rem;
+    border-radius: 0.7rem ;
+    border-top-left-radius: 10rem;
+    border-top-right-radius: 10rem;
+    justify-content: center;
+    align-items: center;
+}

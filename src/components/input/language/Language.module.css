@@ -1,0 +1,16 @@
+.Language{
+    width: 100%;
+    font-size: 1.5rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-weight: bold;
+    color: white;
+}
+.Language select{
+    width: 15rem;
+    height: 3rem;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    border-radius: 0.7rem;
+}
